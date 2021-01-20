@@ -19,6 +19,7 @@ Microservice Project built for learning purposes written in dotnet core 3.1 usin
 + [Inventory Service](https://github.com/zawette/GameStore.Services.Inventory)
 + [Order Service](https://github.com/zawette/GameStore.Services.Order)
 + [Identity Service](https://github.com/zawette/GameStore.Services.Identity)
++ [Api Gateway Service](https://github.com/zawette/GameStore.Services.ApiGateWay)
 ## FrontEnd
 + [React FrontEnd](https://github.com/zawette/GameStore.ReactFrontEnd)
 
